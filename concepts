@@ -1,0 +1,8 @@
+eye.jsxer concept=--- without angle ami eyews move krte parbona 
+. prothome screener width/2 ar height/2 bar krte hbe 
+.tarpor mouser current position bar krte hbe
+.tarpor center theke current mouse locationer difference bar krte hbe jeta amra delta boli 
+mane amae delta x r delta y bar krte hbe
+.tarport angler formular diye angle bar krte hbe jei formula ta holo atan2
+atan2(deltaX,deltaY ) jeta amake angle diye debe kintu seta radians e debe jeta tarpor amake degree te convert krte hbe.
+.1 radian=180/Math.Pi eta holo radiance theke degree convert korar formula
